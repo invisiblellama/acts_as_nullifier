@@ -17,3 +17,4 @@ Only :string and :text attributes that allow NULLs are affected.
 
 ---
 Copyright (c) 2009 Dmitri Goutnik, released under the MIT license.
+CopyRight----Octoberfest
